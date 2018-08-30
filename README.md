@@ -1,4 +1,4 @@
-# :construction: UNDER CONSTRUCTION :construction:
+# UNDER CONSTRUCTION
 
 ## Welcome to GitHub Pages
 
